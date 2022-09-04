@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+body{
+background-color: #12345;
+font-family: Helvetica;
+text-align: justify;
+}
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #9e4646;
+  color: #FFFFFF;
+  font-size: 30px;
+}
+.photo {
+  text-align:center;
+ display:block;
+}
+.ul {
+   list-style-type:disc;
+}
+
+.box{
+
+}
