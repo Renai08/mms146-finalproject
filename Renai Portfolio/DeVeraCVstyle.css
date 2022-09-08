@@ -1,0 +1,47 @@
+.header {
+	padding: 1px;
+	text-align: center;
+	background: #CE6857;
+	color: #E8CFC1;
+	font-size: 30px;
+}
+
+h1 {
+	font-family: 'Suranna', serif;
+}
+
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.photo {
+  text-align:center;
+  display:block;
+}
+
+h3 {
+	padding: 2px;
+	background: #E8CFC1;
+	color: #CE6857;
+	text-align: center;
+	font-size: 30px;
+}
+
+h4 {
+	background: #EC8270;
+	font-size: 20px;
+	text-decoration: underline;
+}
+
+ul {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+body {
+	background-color: #CE6857;
+}
+
+.photography-body {
+	height: 300px;
+}
