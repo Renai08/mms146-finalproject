@@ -147,8 +147,9 @@ p {
   text-align: center;
   color: white;
 
-  height: 250px;
+ /* height: 250px;
   max-width: 250px;
+	*/
 }
 
 .photography-body {
