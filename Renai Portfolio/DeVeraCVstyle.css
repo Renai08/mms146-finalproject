@@ -126,12 +126,7 @@ p {
   grid-template-columns: auto auto;
   padding: 10px;
 }
-.grid-item {
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-  color: white;
-}
+
 .grid-container1 {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -145,6 +140,16 @@ p {
 }
 
 */
+
+.hobbies-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+
+  height: 250px;
+  max-width: 250px;
+}
 
 .photography-body {
 	height: 300px;
