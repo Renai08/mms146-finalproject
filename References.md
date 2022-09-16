@@ -1,4 +1,4 @@
-# References for Webpages
+# References for MMS 146 Final Project
 ## Overall
 #### Nikitha N. (2020). _How to use an image as a link in HTML._ TutorialsPoint. https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
 #### W3 Schools. (n.d.). _CSS Navigation Bar._ Retrieved from: https://www.w3schools.com/Css/css_navbar.asp
