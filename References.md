@@ -35,6 +35,6 @@
 #### IMDb. (n.d.). _Minecraft_ [Image]. Retrieved from: https://www.imdb.com/title/tt2011970/
 
 ### _Gallery_
-#### All images shown on the Gallery section were taken or made by me.
+#### All images shown on the Gallery section were taken or made by me (Airiel Depante).
 
 ## De Vera
