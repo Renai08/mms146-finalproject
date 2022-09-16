@@ -4,6 +4,7 @@
 #### W3 Schools. (n.d.). _CSS Navigation Bar._ Retrieved from: https://www.w3schools.com/Css/css_navbar.asp
 #### W3 Schools. (n.d.). _CSS Grid Layout._ Retrieved from: https://www.w3schools.com/css/css_grid.asp
 #### Grant, K.J. (2017). _OOCSS and Grid._ Retrieved from: https://keithjgrant.com/posts/2017/12/oocss-and-grid/?ref=heydesigner
+##### * OCSSS Grid Example by Keith J. Grant: https://codepen.io/keithjgrant/pen/jYEYrx
 
 ## Depante
 
