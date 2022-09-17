@@ -1,5 +1,4 @@
 # References and Notes for MMS 146 Final Project
-## GitHub site: https://github.com/Renai08/mms146-finalproject
 
 ## Overall
 
