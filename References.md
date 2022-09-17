@@ -1,4 +1,4 @@
-# References for MMS 146 Final Project
+# References and Notes for MMS 146 Final Project
 ## Overall
 
 #### Asghar, A. (2022, February). How to use Google fonts in HTML and CSS. Linux Hint. https://linuxhint.com/google-fonts-html/#
@@ -9,6 +9,7 @@
 #### W3 Schools. (n.d.). _CSS Navigation Bar._ Retrieved from: https://www.w3schools.com/Css/css_navbar.asp
 #### W3 Schools. (n.d.). _CSS Grid Layout._ Retrieved from: https://www.w3schools.com/css/css_grid.asp
 
+GitHub site: https://github.com/Renai08/mms146-finalproject
 
 ## Depante
 ### Image References
