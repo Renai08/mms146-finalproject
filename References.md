@@ -1,4 +1,6 @@
 # References and Notes for MMS 146 Final Project
+## GitHub site: https://github.com/Renai08/mms146-finalproject
+
 ## Overall
 
 #### Asghar, A. (2022, February). How to use Google fonts in HTML and CSS. Linux Hint. https://linuxhint.com/google-fonts-html/#
