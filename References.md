@@ -10,7 +10,7 @@
 #### W3 Schools. (n.d.). _CSS Navigation Bar._ Retrieved from: https://www.w3schools.com/Css/css_navbar.asp
 #### W3 Schools. (n.d.). _CSS Grid Layout._ Retrieved from: https://www.w3schools.com/css/css_grid.asp
 
-GitHub site: https://github.com/Renai08/mms146-finalproject
+### Our GitHub site: https://github.com/Renai08/mms146-finalproject
 
 ## Depante
 ### Image References
