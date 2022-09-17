@@ -65,6 +65,9 @@
 	height: 200px;
 }
 
+/*Text*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Suranna&display=swap');
+
 ul {
 	font-family: 'Josefin Sans', sans-serif;
 	font-size: 20px;
