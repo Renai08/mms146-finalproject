@@ -1,11 +1,14 @@
 # References for MMS 146 Final Project
 ## Overall
 
+#### Asghar, A. (2022, February). How to use Google fonts in HTML and CSS. Linux Hint. https://linuxhint.com/google-fonts-html/#
+#### Duncan, R. (n.d.). Embed YouTube videos. A Simple Guide to HTML. Retrieved September 17, 2022, from https://www.simplehtmlguide.com/youtube.php#
 #### Grant, K.J. (2017). _OOCSS and Grid._ Retrieved from: https://keithjgrant.com/posts/2017/12/oocss-and-grid/?ref=heydesigner
 ##### * OCSSS Grid Example by Keith J. Grant: https://codepen.io/keithjgrant/pen/jYEYrx
 #### Nikitha N. (2020). _How to use an image as a link in HTML._ TutorialsPoint. https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML
 #### W3 Schools. (n.d.). _CSS Navigation Bar._ Retrieved from: https://www.w3schools.com/Css/css_navbar.asp
 #### W3 Schools. (n.d.). _CSS Grid Layout._ Retrieved from: https://www.w3schools.com/css/css_grid.asp
+
 
 ## Depante
 ### Image References
@@ -38,3 +41,18 @@
 #### All images shown on the Gallery section were taken or made by me (Airiel Depante).
 
 ## De Vera
+### Image References
+
+### _Movies_
+#### _Kita Kita_ [Photograph]. (2022, March 25). Wikipedia. https://en.wikipedia.org/wiki/Kita_Kita\
+#### _Wonder_ [Photograph]. (2022, September 11). Wikipedia. https://en.wikipedia.org/wiki/Wonder_(film)
+#### _Legally Blonde_ [Photograph]. (2022, September 17). Wikipedia. https://en.wikipedia.org/wiki/Legally_Blonde
+#### _Your Name_ [Photograph]. (2022, September 17). Wikipedia. https://en.wikipedia.org/wiki/Your_Name
+#### _Four Sisters and a Wedding_ [Photograph]. (2022, August 14). Wikipedia. https://en.wikipedia.org/wiki/Four_Sisters_and_a_Wedding
+#### _Encanto_ [Photograph]. (2022, September 14). Wikipedia. https://en.wikipedia.org/wiki/Encanto
+
+### _Video Games_
+#### miHoYo. (2022). _Download Genshin Impact Apk 2022_ [Photograph]. APKLORD. https://apklord.com/en/genshin-impact-apk
+#### _SuperStar SM Town_ [Photograph]. (2022, July 21). Wikipedia. https://en.wikipedia.org/wiki/SuperStar_SM_Town
+#### _The Sims Mobile for iOS_ [Photograph]. (n.d.). Download. https://download.cnet.com/The-Sims-Mobile/3000-2115_4-77761148.html
+#### _Valorant_ [Photograph]. (n.d.). Logos Download. https://logos-download.com/58629-valorant-logo-download.html
